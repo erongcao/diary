@@ -17,4 +17,5 @@
 Nodejs安装还是用brew比较好。
 
 hexo安装需要用超级用户权限，sudo npm install -g hexo-cli
+最终失败无法将hexo与GitHub同步
 
